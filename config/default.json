@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/recipesApi(par)",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "4qrMWfG9QCRX5eDMhCLlDpe4XFIRyqx1u+Enbo2fE/iY7YZ9mvjR28ZZpQx1/wkn3ljHSAIVlNXjnUXIkWZHLw=="
+    },
+    "local": {}
+  }
+}
